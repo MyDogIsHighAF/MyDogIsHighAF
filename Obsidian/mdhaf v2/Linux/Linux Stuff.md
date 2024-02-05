@@ -1,0 +1,8 @@
+- ==sudo journalctl -u sshd== (Shows logs of ssh attempts)
+- ==Ctrl + Alt + F6== to pull up TTY
+- ==Alt + F1== to exit TTY
+- TTY F1 is login
+- TTY F2 is GUI environment
+- ==lsblk== shows drives
+- sudo fdisk /dev/**drive name** to partition drive
+- sudo mkfs.ex4 /dev/**drive name** to format drive

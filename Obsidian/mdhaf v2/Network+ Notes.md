@@ -1,0 +1,5 @@
+- Cisco made TACTAS+ Made for AAA Server (Authentication-Authorization-Accounting)
+- Kerberos is a Ticket Granting System for AAA Servers
+- Access - Distribution - Core : Three tiered data center architecture
+- On switches, use LACP (Link Aggregation Control Protocol) for a server with 2 NIC's to be configured for redundancy
+- 
